@@ -1,4 +1,4 @@
-# FlightRadar Remastered
+# Airtraffic Watch
 ## What's this?
 This project mainly focuses on remaking the flight radar interface, for educational purposes on how to process JSON data [flightradar24.com](https://www.flightradar24.com/).
 ## Hosted Example
